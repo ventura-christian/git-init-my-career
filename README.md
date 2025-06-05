@@ -7,9 +7,14 @@
 **365 Days - 1 Hour at a Time**
 
 
-**My names <em>Christian Ventura</em>**
+# Who am I??
 
-**<em>Full-Stack Web Dev Student_Arizona State University</em>**
+**<em>Christian Ventura</em>**
+
+**<em>Full-Stack Web Dev Student</em>**
+**<em>Arizona State University</em>**
+
+___
 
 **This repository marks **<em>Day One</em>** of my commitment to becoming a professional full-stack web developer. I'm building this in public, documenting everything I learn, and making each step of the journey count — all while sharpening my skills and building real-world projects.**
 
