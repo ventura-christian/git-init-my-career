@@ -1,19 +1,21 @@
 <div align="center">
 
-# 🚀 git-init-my-career
+
+**🚀 git-init-my-career**
+
+## 👋 Welcome
 
 **My Full-Stack Web Dev Journey**
 
 **365 Days - 1 Hour at a Time**
 
+
 ![Wizard Shuffling Welcome](https://media.giphy.com/media/kHs1lBhZWaK5rj7lt3/giphy.gif)
 
 ___
-## 👋 Welcome
 
-**My name is:**
 
-# <em>Christian Ventura</em>
+**<em>CHRISTIAN VENTURA</em>**
 
 **<em>Full-Stack Web Dev Student</em>**
 
@@ -47,13 +49,13 @@ I’ll use it to:
 ✅ Reflect on my growth  
 ✅ Build proof that I know what I’m doing  
 
----
+
 
 ## 🗃️ Repo Structure (WIP)
 
 **Nothing to see here....**
 
----
+
 
 ## ✨ What's Live Now
 
@@ -62,10 +64,11 @@ I’ll use it to:
 ✅ README foundation  
 ✅ Commit log started  
 
-### 📸 Screenshot: First HTML Page (Coming Soon)
+## 📸 Screenshot: First HTML Page (Coming Soon)
+
+**Nothing to see here....**
 
 
----
 
 ## 🛠️ Tech Stack Roadmap
 
@@ -108,7 +111,7 @@ I'll be learning and working with the following tools:
 
 ## 🔗 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav )
+- 💼 [LinkedIn]([https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav ](https://www.linkedin.com/in/christian-ventura-100402351/))
 - 🌐 Personal Website (Coming Soon)
 - 📧 cventura64@outlook.com
 
