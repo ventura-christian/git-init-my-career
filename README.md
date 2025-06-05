@@ -108,9 +108,9 @@ I'll be learning and working with the following tools:
 
 ## 🔗 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 💼 [LinkedIn](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav )
 - 🌐 Personal Website (Coming Soon)
-- 📧 your.email@example.com
+- 📧 cventura64@outlook.com
 
 ---
 
