@@ -8,7 +8,7 @@
 
 ___
 
-** My name is: **
+**My name is:**
 
 # <em>Christian Ventura</em>
 
