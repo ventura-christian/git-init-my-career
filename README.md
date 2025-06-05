@@ -2,7 +2,8 @@
 
 # 🚀 git-init-my-career
 
-**My Full-Stack Web Dev Journey — 365 Days, 1 Hour at a Time**
+**My Full-Stack Web Dev Journey**
+**365 Days, 1 Hour at a Time**
 
 
 **My names <em>Christian Ventura</em> - 
