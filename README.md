@@ -6,10 +6,9 @@
 
 **365 Days - 1 Hour at a Time**
 
+**whoami?**
 
-# Who am I??
-
-**<em>Christian Ventura</em>**
+#<em>Christian Ventura</em>
 
 **<em>Full-Stack Web Dev Student</em>**
 **<em>Arizona State University</em>**
