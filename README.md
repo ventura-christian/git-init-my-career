@@ -6,6 +6,8 @@
 
 **365 Days - 1 Hour at a Time**
 
+![Wizard Shuffling Welcome](https://media.giphy.com/media/kHs1lBhZWaK5rj7lt3/giphy.gif)
+
 ___
 
 **My name is:**
@@ -23,7 +25,6 @@ ___
 ---
 
 ## 👋 Welcome
-![Wizard Shuffling Welcome](https://media.giphy.com/media/kHs1lBhZWaK5rj7lt3/giphy.gif)
 </div>
 
 **📅 Daily Mission:**  
