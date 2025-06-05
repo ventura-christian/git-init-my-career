@@ -64,7 +64,6 @@ I’ll use it to:
 
 ### 📸 Screenshot: First HTML Page (Coming Soon)
 
-![screenshot placeholder](https://via.placeholder.com/800x400.png?text=Project+Screenshot+Coming+Soon)
 
 ---
 
