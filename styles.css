@@ -1,4 +1,49 @@
 * {
-  font-family: Roboto, "Times New Roman", Times, serif;
+  font-family: Roboto, 'Times New Roman', Times, serif;
   /* border: 1px solid rgb(128, 128, 128); */
+}
+
+h1 {
+  margin: 2px;
+  padding: 15px 20px;
+  /* text-shadow: 2px 3px 1px gray; */
+  box-shadow: inset 10px 5px 1px gray;
+  /* I added this shadow to my name at the top of the page I'm building...mess with this later */
+  border-radius: 10px;
+}
+
+h3 {
+  margin: 2px;
+  padding: 15px 20px;
+  /* text-shadow: 2px 3px 1px gray; */
+  box-shadow: inset 10px 5px 1px gray;
+  /* I added this shadow to my name at the top of the page I'm building...mess with this later */
+  border-radius: 10px;
+}
+
+nav {
+  margin: 2px;
+  padding: 15px 20px;
+  /* text-shadow: 2px 3px 1px gray; */
+  box-shadow: inset 10px 5px 1px powderblue;
+  /* I added this shadow to my name at the top of the page I'm building...mess with this later */
+  border-radius: 10px;
+}
+
+p {
+  margin: 20px;
+  padding: 15px 20px;
+  /* text-shadow: 2px 3px 1px gray; */
+  /* box-shadow: inset 10px 5px 1px powderblue;
+  /* I added this shadow to my name at the top of the page I'm building...mess with this later */
+  /* border-radius: 10px; */
+}
+
+footer {
+  /* margin: 2px; */
+  /* padding: 2px; */
+  /* text-shadow: 2px 3px 1px gray; */
+  /* box-shadow: inset 10px 5px 1px gray; */
+  /* I added this shadow to my name at the top of the page I'm building...mess with this later */
+  border-radius: 10px;
 }
