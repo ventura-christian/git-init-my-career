@@ -96,11 +96,19 @@ I'll be learning and working with the following tools:
 
 ---
 
+## Notion Blog: Daily Accomplishments
+
+- 🌐 https://www.notion.so/Daily-Accomplishments-20d8303ff8768011b52ae82fd25e4c31?source=copy_link
+
+___
+
 ## 🔗 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📧 cventura64@outlook.com
+- 📧 cventur6@asu.edu
 - 🌐 Personal Website (Coming Soon)
-- 📧 your.email@example.com
+
 
 ---
 
