@@ -7,32 +7,49 @@ h1 {
   margin: 2px;
   padding: 15px 20px;
   /* text-shadow: 2px 3px 1px gray; */
-  box-shadow: inset 10px 5px 1px gray;
+  box-shadow: inset 10px 5px 1px black;
   /* I added this shadow to my name at the top of the page I'm building...mess with this later */
   border-radius: 10px;
+  background-color: steelblue;
+  animation-name: changeColors;
+  animation-duration: 10s;
+  animation-delay: 0s;
+  /* added an animation to the background for the h1. I learned to set the name, duration, and delay for the animation. */
+}
+
+/* The keyframes helps define the properties for the color change in the animation */
+@keyframes changeColors {
+  from {
+    background-color: steelblue;
+  }
+  to {
+    background-color: coral;
+  }
 }
 
 h3 {
   margin: 2px;
   padding: 15px 20px;
   /* text-shadow: 2px 3px 1px gray; */
-  box-shadow: inset 10px 5px 1px gray;
+  box-shadow: inset 10px 5px 1px black;
   /* I added this shadow to my name at the top of the page I'm building...mess with this later */
   border-radius: 10px;
+  background-color: steelblue;
 }
 
 nav {
   margin: 2px;
   padding: 15px 20px;
-  /* text-shadow: 2px 3px 1px gray; */
-  box-shadow: inset 10px 5px 1px powderblue;
+  text-shadow: 1px 1px 5px black;
+  box-shadow: inset 10px 5px 1px black;
   /* I added this shadow to my name at the top of the page I'm building...mess with this later */
   border-radius: 10px;
+  background-color: steelblue;
 }
 
 p {
-  margin: 20px;
-  padding: 15px 20px;
+  margin: 10px;
+  padding: 10px 20px;
   /* text-shadow: 2px 3px 1px gray; */
   /* box-shadow: inset 10px 5px 1px powderblue;
   /* I added this shadow to my name at the top of the page I'm building...mess with this later */
@@ -40,10 +57,10 @@ p {
 }
 
 footer {
-  /* margin: 2px; */
-  /* padding: 2px; */
+  margin: 5px;
+  padding: 2px;
   /* text-shadow: 2px 3px 1px gray; */
-  /* box-shadow: inset 10px 5px 1px gray; */
+  box-shadow: inset 10px 5px 1px steelblue;
   /* I added this shadow to my name at the top of the page I'm building...mess with this later */
   border-radius: 10px;
 }
